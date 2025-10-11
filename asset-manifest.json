@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/StarFlix/static/css/main.cb96e57e.css",
+    "main.js": "/StarFlix/static/js/main.e30c4187.js",
+    "static/js/453.ee044d8d.chunk.js": "/StarFlix/static/js/453.ee044d8d.chunk.js",
+    "static/media/ft-bg.jpg": "/StarFlix/static/media/ft-bg.7a4da7c28cbbf633281a.jpg",
+    "static/media/user-hero-bg.jpg": "/StarFlix/static/media/user-hero-bg.6bae7c2a9118f0c7407a.jpg",
+    "index.html": "/StarFlix/index.html",
+    "main.cb96e57e.css.map": "/StarFlix/static/css/main.cb96e57e.css.map",
+    "main.e30c4187.js.map": "/StarFlix/static/js/main.e30c4187.js.map",
+    "453.ee044d8d.chunk.js.map": "/StarFlix/static/js/453.ee044d8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb96e57e.css",
+    "static/js/main.e30c4187.js"
+  ]
+}
